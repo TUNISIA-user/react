@@ -1,7 +1,7 @@
 'use strict';
 
 const {esNextPaths} = require('./scripts/shared/pathsByLanguageVersion');
-
+// name email  nahdigyth@gmail.com
 module.exports = {
   plugins: ['prettier-plugin-hermes-parser'],
   bracketSpacing: false,

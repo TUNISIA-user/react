@@ -1,6 +1,6 @@
 import './polyfills';
 import loadReact from './react-loader';
-
+// @ founder nahdi ghaith
 loadReact()
   .then(() => import('./components/App'))
   .then(App => {
